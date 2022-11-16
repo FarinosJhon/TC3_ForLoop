@@ -1,0 +1,317 @@
+plot;genus;species;spcode;Abund.n;SLA
+1;Byrsonima;crassifolia;Byrcra;57;6.209.219.184
+1;Cochlospermum;vitifolium;cocvit;2;
+plot;genus;species;spcode;Abund.n;SLA
+1;Byrsonima;crassifolia;Byrcra;57;6.209.219.184
+1;Cochlospermum;vitifolium;cocvit;2;
+1;Curatella;americana;curame;42;2.966.209.655
+1;Genipa;americana;gename;1;
+1;Roupala;montana;roumon;6;1.452.968.954
+2;Alibertia ;edulis;aliedu;1;
+2;Byrsonima;crassifolia;Byrcra;21;6.236.630.101
+2;Cochlospermum;vitifolium;cocvit;1;
+2;Curatella;americana;curame;151;6.094.397.997
+2;Luehea;speciosa;luespe;7;
+2;Roupala;montana;roumon;12;4.607.277.783
+3;Acacia;collinsii;acacol;64;
+3;Agonandra;macrocarpa;agomac;2;
+3;Alibertia ;edulis;aliedu;4;9.453.301.386
+3;Bursera;tomentosa;burtom;9;1.030.280.732
+3;Byrsonima;crassifolia;Byrcra;116;7.162.834.697
+3;Casearia;sylvestris ;cassyl;2;
+3;Cochlospermum;vitifolium;cocvit;1;
+3;Cordia;guanacastensis ;corgua;13;1.568.246.359
+3;Curatella;americana;curame;16;8.977.319.096
+3;Genipa;americana;gename;8;9.755.670.091
+3;Machaerium;biovulatum;macbio;1;
+3;Miconia;argentea ;micarg;1;
+3;Quercus ;oleoides;queoli;80;7.009.643.198
+3;Rehdera;trinervis;rehtri;88;8.788.852.486
+3;Roupala;montana;roumon;3;
+3;Semialarium;mexicanum;hemmex;25;7.684.079.201
+3;Simarouba;glauca;simgla;1;
+3;Tetracera;volubilis;tetvol;9;1.862.528.116
+4;Acacia;collinsii;acacol;14;
+4;Acacia;farnesiana ;antless;14;
+4;Alibertia ;edulis;aliedu;1;
+4;Bursera;tomentosa;byrtom;2;1.030.280.732
+4;Byrsonima;crassifolia;Byrcra;157;6.258.827.712
+4;Cochlospermum;vitifolium;cocvit;1;1.246.701.107
+4;Cordia;guanacastensis ;corgua;4;152.629.275
+4;Curatella;americana;curame;13;8.661.786.448
+4;Genipa;americana;gename;1;1.091.394.481
+4;Rehdera;trinervis;rehtri;21;7.210.854.995
+4;Roupala;montana;roumon;2;
+5;Acacia;collinsii;acacol;14;
+5;Acosmium;panamense;acopan;2;
+5;Agonandra;macrocarpa;agomac;1;
+5;Alibertia ;edulis;aliedu;9;1.189.277.714
+5;Annona;purpurea;annpur;2;
+5;Annona;reticulata;annret;18;3.157.702
+5;Bauhinia;ungulata;bauung;3;3.336.234.154
+5;Bursera;simaruba;bursim;1;1.555.543.839
+5;Casearia;arguta;casarg;2;
+5;Casearia;sylvestris ;cassyl;30;135.878.923
+5;Casearia;tremula ;castre;2;
+5;Chomelia;spinosa;chospi;8;304
+5;Cochlospermum;vitifolium;cocvit;10;1.752.968.425
+5;Cordia;panamensis;corpan;5;1.446.944
+5;Genipa;americana;gename;6;2.733.054.913
+5;Hirtella;racemosa;hirrac;20;1.337.668.889
+5;Jacquinia;nervosa;jacner;1;
+5;Luehea;speciosa;luespe;3;2.914.832.135
+5;Quercus ;oleoides;queoli;46;7.735.737.136
+5;Randia ; karstenii;rancar;1;
+5;Rehdera;trinervis;rehtri;1;
+5;Semialarium;mexicanum;hemmex;26;1.269.134.459
+5;Spondias ;mombin;spomom;8;
+5;Tabebuea;rosea;tabros;1;
+5;Tetracera;volubilis;tetvol;14;1.862.528.116
+6;Acacia;collinsii;acacol;34;
+6;Acosmium;panamense;acopan;1;
+6;Acrocomia;vinifera;acrvin;1;
+6;Alibertia ;edulis;aliedu;2;1.189.277.714
+6;Bauhinia;ungulata;bauung;2;3.336.234.154
+6;Byrsonima;crassifolia;Byrcra;12;1.125.877.982
+6;Casearia;nitida;casnit;6;1.835.484.068
+6;Cedrela;odorata;cedodo;1;
+6;Chomelia;spinosa;chospi;9;304
+6;Cochlospermum;vitifolium;cocvit;1;1.752.968.425
+6;Cordia;guanacastensis ;corgua;23;1.835.879.481
+6;Cornutia;grandifolia;corgra;10;1.694.163
+6;Crescentia;alata;creala;7;9.377.833.057
+6;Enterolobium;cyclocarpum;entcyc;3;1.833.333
+6;Guazuma;ulmifolia;guaulm;40;1.234.493.489
+6;Samanea ;saman;samsam;1;
+6;Trichilia;trifolia;tritri;1;2.483.663.558
+7;Acacia;collinsii;acacol;10;
+7;Acosmium;panamense;acopan;1;
+7;Agonandra;macrocarpa;agomac;14;7.536.313
+7;Alibertia ;edulis;aliedu;7;1.189.277.714
+7;Allophyllusc;occidentalisc;allocc;12;1.913.235.203
+7;Annona;reticulata;annret;1;
+7;Bursera;simaruba;bursim;3;1.555.543.839
+7;Bursera;tomentosa;burtom;2;1.030.280.732
+7;Casearia;nitida;casnit;15;1.835.484.068
+7;Casearia;tremula ;castre;8;
+7;Chomelia;spinosa;chospi;5;
+7;Cordia;alliodora;corall;13;1.684.721.591
+7;Cordia;guanacastensis ;corgua;4;1.914.657.306
+7;Cordia;panamensis;corpan;7;
+7;Enterolobium;cyclocarpum;entcyc;1;
+7;Guazuma;ulmifolia;guaulm;6;1.234.493.489
+7;Guettarda;macrosperma ;guamac;1;
+7;Jacquinia;nervosa;jacner;1;
+7;Karwinskia;caldronii ;karcal;1;
+7;Luehea;speciosa;luespe;4;3.581.541.193
+7;Maclura;tinctoria;mactin;3;3.184.322.556
+7;Malvaviscus;arboreus;malarb;1;2.549.201.871
+7;Manilkara;chicle;manchi;1;
+7;Pithecellobium;dulce;pitdul;1;
+7;Randia;subcordata;ransub;18;2.069.062.462
+7;Simarouba;glauca;simgla;3;
+7;Spondias ;mombin;spomom;6;
+7;Stemmadenia;obovata;steobo;15;2.964.793.827
+7;Tabebuea;ochracea;taboch;39;1.984.982.298
+7;Tabebuea;rosea;tabros;1;
+7;Tetracera;volubilis;tetvol;7;2.169.031.845
+7;Trichilia;americana;triame;11;1.744.647.934
+7;Trichilia;trifolia;tritri;14;2.483.663.558
+7;Xylosma;flexuosa;xylfle;1;
+8;Acacia;collinsii;acacol;8;
+8;Bursera;simaruba;bursim;2;1.555.543.839
+8;Casearia;sylvestris ;cassyl;144;1.261.685.048
+8;Cestrum;;cestrum;2;
+8;Cordia;alliodora;corall;8;1.684.721.591
+8;Cornutia;grandifolia;corgra;1;
+8;Cupania;guatemalensis;cupgua;22;102.202.984
+8;Diospyros;nicaraguensis;dionic;2;
+8;Enterolobium;cyclocarpum;entcyc;1;
+8;Guazuma;ulmifolia;guaulm;42;1.661.731.279
+8;Luehea;speciosa;luespe;2;3.581.541.193
+8;Maclura;tinctoria;mactin;4;3.184.322.556
+8;Malvaviscus;arboreus;malarb;9;2.549.201.871
+8;Piper;;piper;4;
+8;Simarouba;glauca;simgla;3;7.069.583.284
+8;Thouinidium;decandrum;thodec;3;
+9;Acacia;collinsii;acacol;9;
+9;Alibertia ;edulis;aliedu;5;1.199.696.862
+9;Bauhinia;ungulata;bauung;4;3.336.234.154
+9;Bursera;simaruba;bursim;2;1.555.543.839
+9;Calycophyllum;candidissimum;calcan;9;2.161.731.376
+9;Capparis ;frondosa;capfro;7;7.612.251.311
+9;Casearia;nitida;casnit;23;2.262.130.154
+9;Ceiba;pentandra;ceipan;1;
+9;Chomelia;spinosa;chospi;1;
+9;Genipa;americana;gename;6;2.733.054.913
+9;Guazuma;ulmifolia;guaulm;31;162.393.533
+9;Hymenaea;courbaril;hymcou;1;
+9;Maclura;tinctoria;mactin;1;3.184.322.556
+9;Malpighia;glabra;malgla;1;
+9;Malvaviscus;arboreus;malarb;9;2.023.426.031
+9;Pisonia;macranthocarpa;pismac;8;
+9;Randia;subcordata;ransub;5;2.779.335.328
+9;Semialarium;mexicanum;hemmex;17;
+9;Spondias ;mombin;spomom;8;
+9;Stemmadenia;obovata;steobo;1;185.881
+9;Tabebuea;rosea;tabros;1;
+9;Tetracera;volubilis;tetvol;2;2.169.031.845
+9;Thouinidium;decandrum;thodec;1;
+10;Acacia;collinsii;acacol;1;
+10;Acosmium;panamense;acopan;2;2.970.769
+10;Alibertia ;edulis;aliedu;2;1.265.703.198
+10;Allophyllusc;occidentalisc;allocc;7;2.099.437.764
+10;Annona;purpurea ;annpur;1;3.639.125.683
+10;Annona;reticulata;annret;9;3.157.702
+10;Piper;;piper;2;
+10;Tetracera;volubilis;tetvol;12;2.140.071.948
+10;Tabebuea;ochracea;taboch;39;2.504.885.737
+10;Brosimum ;alicastrum;broali;2;9.467.005
+10;Bursera;simaruba;bursim;2;1.369.189
+10;Casearia;nitida;casnit;2;1.828.060.425
+10;Casearia;sylvestris ;cassyl;25;1.870.259.948
+10;Cecropia;peltata;cecpel;1;
+10;Chomelia;spinosa;chospi;1;
+10;Cordia;panamensis;corpan;16;1.446.944
+10;Cupania;guatemalensis;cupgua;8;1.607.786.836
+10;Enterolobium;cyclocarpum;entcyc;2;
+10;Guettarda;macrosperma ;guamac;2;
+10;Guazuma;ulmifolia;guaulm;3;
+10;Hirtella;racemosa;hirrac;1;
+10;Hymenaea;courbaril;hymcou;13;1.447.412.089
+10;Inga;vera;ingver;2;
+10;Jacquinia;nervosa;jacner;1;
+10;Luehea;speciosa;luespe;39;2.366.249.694
+10;Lonchocarpus ;rugosus;lonrug;1;
+10;Maclura;tinctoria;mactin;2;
+10;Malvaviscus;arboreus;malarb;15;2.303.860.938
+10;Manilkara;chicle;manchi;5;1.135.299.585
+10;Miconia;argentea ;micarg;6;1.114.554.721
+10;Ocotea;veraguensis;ocover;2;1.588.780.528
+10;Pseudobombax;;pseudobom;2;
+10;Randia;subcordata;ransub;2;
+10;Samanea ;saman;samsam;1;
+10;Simarouba;glauca;simgla;7;1.039.894.771
+10;Spondias ;mombin;spomom;10;
+11;Acacia;collinsii;acacol;2;
+11;Allophyllusc;occidentalisc;allocc;7;2.099.437.764
+11;Annona;purpurea ;annpur;1;
+11;Calycophyllum;candidissimum;calcan;22;2.161.731.376
+11;Capparis ;frondosa;capfro;3;1.041.500.039
+11;Casearia;sylvestris ;cassyl;7;1.486.239.424
+11;Chomelia;spinosa;chospi;1;
+11;Coccoloba ;guanacastensis;cocgua;1;1.084.407.232
+11;Cochlospermum;vitifolium;cocvit;1;
+11;Cornutia;;cornutia;1;
+11;Cordia;panamensis;corpan;1;
+11;Cupania;guatemalensis;cupgua;1;155.248.108
+11;Genipa;americana;gename;1;2.208.000.805
+11;Guettarda;macrosperma ;guamac;1;
+11;Guazuma;ulmifolia;guaulm;2;
+11;Hirtella;racemosa;hirrac;26;2.157.884.714
+11;Hymenaea;courbaril;hymcou;3;1.447.412.089
+11;Inga;vera;ingver;1;
+11;Lonchocarpus ;rugosus;lonrug;1;
+11;Luehea;speciosa;luespe;8;279.188.689
+11;Malvaviscus;arboreus;malarb;5;2.438.790.539
+11;Manilkara;chicle;manchi;3;1.135.299.585
+11;Mouriri;myrtilloides;moumyr;1;
+11;Picramnia ;quaternaria;picqua;4;1.775.343.834
+11;Pithecellobium;dulce;pitdul;13;
+11;Randia;thurberi;ranthu;1;
+11;Bursera;simaruba;bursim;1;
+11;Sebastiania ;pavoniana;sebpav;1;1.713.781.772
+11;Sideroxylon ;capiri;sidcap;1;13.874.375
+11;Stemmadenia;obovata;steobo;4;185.881
+11;Swartzia ;cubensis;swacub;9;2.175.243
+11;Tabebuea;ochracea;taboch;2;2.504.885.737
+11;Tetracera;volubilis;tetvol;16;25.831.863
+11;Zanthoxylum;setulosum;zanset;2;1.626.042
+12;Acacia;collinsii;acacol;1;
+12;Albizzia;adinocephala;albadi;1;
+12;Alibertia ;edulis;aliedu;1;1.265.703.198
+12;Allophyllusc;occidentalisc;allocc;1;2.099.437.764
+12;Astronium;graveolens ;astgra;16;2.358.768
+12;Ateleia;herbert-smithii;ateher;7;1.293.277
+12;Bursera;simaruba;bursim;15;2.033.617.275
+12;Calycophyllum;candidissimum;calcan;27;91.55
+12;Capparis ;indica;capind;15;4.336.054
+12;Chomelia;spinosa;chospi;9;304
+12;Cochlospermum;vitifolium;cocvit;5;58.55
+12;Cordia;panamensis;corpan;5;1.446.944
+12;Coursetia ;elliptica;coursetia elliptica;26;244
+12;Erythroxylon;havanense;eryhav;5;
+12;Exostema;mexicanum;exomex;28;37.4
+12;Genipa;americana;gename;2;
+12;Guazuma;ulmifolia;guaulm;1;40.9
+12;Guettarda;macrosperma ;guamac;4;
+12;Jacquinia;nervosa;jacner;12;
+12;Krugiodendron ;ferreum;krufer;2;
+12;Lonchocarpus ;;loncho;3;
+12;Luehea;speciosa;luespe;8;264.017.384
+12;Machaerium;biovulatum;macbio;7;
+12;Manilkara;chicle;manchi;1;150.25
+12;Myrospermum ;frutescens;myrfru;8;
+12;Pisonia;macranthocarpa;pismac;10;
+12;Pseudobombax;;pseudobom;1;
+12;Randia;subcordata;ransub;20;2.224.347.691
+12;Randia ; karstenii;rancar;1;
+12;Sapranthus;palanga;sappal;12;259.577.195
+12;Semialarium;mexicanum;hemmex;16;1.387.280.809
+12;Simarouba;glauca;simgla;1;
+12;Spondias ;mombin;spomom;1;
+12;Stemmadenia;obovata;steobo;6;3.651.515.152
+12;Tabebuea;ochracea;taboch;7;2.543.525.155
+12;Ficus;;fig;1;
+12;Tetracera;volubilis;tetvol;1;25.831.863
+12;Randia;monantha;;2;
+13;Acacia;collinsii;acacol;1;
+13;Astronium;graveolens ;astgra;2;278.8
+13;Tabebuea;ochracea;taboch;3;2.543.525.155
+13;Brosimum ;alicastrum;broali;7;157.3
+13;Calycophyllum;candidissimum;calcan;2;
+13;Casearia;sylvestris ;cassyl;2;2.148.703.296
+13;Cecropia;peltata;cecpel;2;
+13;Chomelia;spinosa;chospi;1;
+13;Dipterodendron;costaricensis;dipcos;4;132.2
+13;Enterolobium;cyclocarpum;entcyc;1;
+13;Faramea;occidentalis;farocc;2;1.561.166.716
+13;Guettarda;macrosperma ;guamac;2;
+13;Hirtella;racemosa;hirrac;43;1.201.208.333
+13;Hymenaea;courbaril;hymcou;2;
+13;Luehea;speciosa;luespe;2;264.017.384
+13;Malpighia;glabra;malgla;47;1.420.524.804
+13;Manilkara;chicle;manchi;8;1.153.816.821
+13;Mouriri;myrtilloides;moumyr;45;1.595.499.608
+13;Ocotea;veraguensis;ocover;1;2.251.949.495
+13;Picramnia ;quaternaria;picqua;9;195.714.597
+13;Randia;subcordata;ransub;2;
+13;Sebastiania ;pavoniana;sebpav;10;1.713.781.772
+13;Sloanea;terniflora;sloter;3;1.271.876.228
+13;Ficus;;stranfig;13;
+13;Tetracera;volubilis;tetvol;29;3.079.108.931
+14;Alibertia ;edulis;aliedu;3;1.303.512.675
+14;Annona;purpurea ;annpur;1;3.639.125.683
+14;Brosimum ;alicastrum;broali;21;1.764.540.959
+14;Bursera;simaruba;bursim;1;2.033.617.275
+14;Calycophyllum;candidissimum;calcan;5;3.551.358.465
+14;Castilla ;elastica;casela;5;1.647.466.283
+14;Coccoloba ;guanacastensis;cocgua;21;1.514.405.143
+14;Cordia;panamensis;corpan;1;2.910.913.978
+14;Cupania;guatemalensis;cupgua;3;1.830.742.424
+14;Guettarda;macrosperma ;guamac;2;369.6
+14;Hymenaea;courbaril;hymcou;5;120.9
+14;Ixora;floribunda;ixoflo;3;1.270.411.646
+14;Malpighia;glabra;malgla;12;1.445.693.556
+14;Lonchocarpus ;;loncho;1;
+14;Manilkara;chicle;manchi;8;1.211.904.983
+14;Mouriri;myrtilloides;moumyr;100;1.595.499.608
+14;Picramnia ;quaternaria;picqua;12;2.140.532.054
+14;Samanea ;saman;samsam;1;
+14;Tabebuea;ochracea;taboch;1;2.543.525.155
+14;Spondias ;mombin;spomom;2;
+14;Ficus;;stranfig;5;
+14;Pseudobombax;sudobomb;pseudobom;1;
+14;Acosmium;panamense;acopan;3;
+14;Tetracera;volubilis;tetvol;5;3.070.473.148
+14;Zanthoxylum;setulosum;zanset;1;2.308.944.785
